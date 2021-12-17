@@ -1,0 +1,182 @@
+
+.full-page{
+  height:100%;
+  width: 100%;
+  margin: 0px;
+  display: flex;
+  justify-content: center;
+}
+
+.container {
+  padding-top: 20px;
+  padding-left:100px;
+  padding-right: 100px;
+  background-color: #f5f4f4;
+  height: 870px;
+  width: 1200px;
+  border: 10px solid black;
+}
+.row-0{
+  display: flex;
+}
+.row-1{
+  /* display: flex; */
+}
+.row-2{
+  display: flex;
+}
+.row-3{
+  display: flex;
+}
+.row-4{
+  display: flex;
+}
+.row-5{
+  display: flex;
+}
+.generic-button{
+  flex: 1;
+  height: 150px;
+  background: #ffffff;
+  font-size: 100px;
+}
+.generic-button-hover{
+  flex: 1;
+    height: 150px;
+    background: #6d6d6d;
+    font-size: 100px;
+}
+.button-one {
+  flex: 1;
+  height: 150px;
+  background: #ffffff;
+  font-size: 100px;
+  }
+  .button-one-hover {
+    flex: 1;
+    height: 150px;
+    background: #6d6d6d;
+    font-size: 100px;
+    }
+  .button-two {
+    flex: 1;
+    background: #ffffff;
+    font-size: 100px;
+  }
+  .button-three {
+    flex: 1;
+    background: #ffffff;
+    font-size: 100px;
+  }
+  .button-four {
+    flex: 1;
+    background: #ffffff;
+    height: 150px;
+    font-size: 100px;
+  }
+  .button-five {
+    flex: 1;
+    background: #ffffff;
+    font-size: 100px;
+  }
+  .button-six {
+    flex: 1;
+    background: #ffffff;
+    font-size: 100px;
+  }
+  .button-seven {
+    flex: 1;
+    height: 150px;
+    background: #ffffff;
+    font-size: 100px;
+  }
+  .button-eight {
+    flex: 1;
+    background: #ffffff;
+    font-size: 100px;
+  }
+  .button-nine {
+    flex: 1;
+    background: #ffffff;
+    font-size: 100px;
+  }
+  .button-clear {
+    flex: 1;
+    background: #ffffff;
+    font-size: 100px;
+  }
+  .button-zero {
+    flex: 1;
+    background: #ffffff;
+    font-size: 100px;
+  }
+  .button-equals {
+    flex: 1;
+    background: #ffffff;
+    font-size: 100px;
+    /* border: none; */
+    /* margin-left: 1px; */
+  }
+  .button-divide {
+    flex: 1;
+    background: #ffffff;
+    font-size: 100px;
+  }
+  .button-multiply {
+    flex: 1;
+    background: #ffffff;
+    font-size: 100px;
+  }
+  .button-subtract {
+    flex: 1;
+    background: #ffffff;
+    font-size: 100px;
+  }
+  .button-add {
+    flex: 1;
+    background: #ffffff;
+    font-size: 100px;
+  }
+  .button-decimal {
+    flex: 1;
+    background: #ffffff;
+    height: 150px;
+    font-size: 100px;
+  }
+  .display-box{
+    /* flex: 0.4; */
+    font-size: 100px;
+    text-align: right;
+    /* border: none; */
+    width: 960px;
+    margin-bottom: 20px;
+  }
+  .repeater-box{
+    flex: 0.8;
+    height: 100px;
+    font-size: 75px;
+    text-align: right;
+    border: none;
+  }
+
+  .invisible-space-1{
+    flex: 1;
+    background:transparent;
+    border:#f5f4f4;
+   color:transparent;
+  }
+  .invisible-space-2{
+    flex: 1;
+    background:transparent;
+    border:#f5f4f4;
+   color:transparent;
+  }
+  .invisible-space-3{
+    flex: 1;
+    background:transparent;
+    border:#f5f4f4;
+   color:transparent;
+
+  }
+
+
